@@ -1,0 +1,10 @@
+.loaderContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+  }
+
+  .loader {
+    color: rgb(148, 145, 145);
+  }
